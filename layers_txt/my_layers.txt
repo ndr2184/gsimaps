@@ -12,5 +12,14 @@
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": "<a href='https://github.com/ndr2184/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
        }
+       {
+ "type": "Layer",
+ "id": "example231",
+ "title":"千葉県庁から10キロ圏",
+ "url":  "http://ndr2184.github.io/gsimaps/example231/{z}/{x}/{y}.geojson"
+ "html": "<a href='https://github.com/ndr2184/gsimaps/blob/gh-pages/layers_txt/my_layers.txt'>編集</a>"
+ "maxZoom" : 18,
+ "maxNativeZoom" : 2
+}
      ]
    }
